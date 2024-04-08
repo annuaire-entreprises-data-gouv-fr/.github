@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/annuaire-entreprises-data-gouv-fr/.github/assets/8900205/b1fb5c11-8199-451c-a0ac-808c9bfa97cd" width="400px" />
+  <img src="https://github.com/annuaire-entreprises-data-gouv-fr/.github/assets/8900205/b1fb5c11-8199-451c-a0ac-808c9bfa97cd" width="300px" />
 </h1>
 
 Nous sommes l’équipe derrière l’[Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/) et l’[API de Recherche d’entreprises](https://api.gouv.fr/les-api/api-recherche-entreprises). Nous travaillons pour l’administration française 🇫🇷 au sein de la [Direction Interministérielle du Numérique(DINUM)](https://www.numerique.gouv.fr/).
