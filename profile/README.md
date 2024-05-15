@@ -4,11 +4,9 @@
   <img src="https://github.com/annuaire-entreprises-data-gouv-fr/.github/assets/8900205/b1fb5c11-8199-451c-a0ac-808c9bfa97cd" width="300px" />
 </h1>
 
-Bienvenue sur le répertoire GitHub de l’[Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/) et de l’[API de Recherche d’entreprises](https://api.gouv.fr/les-api/api-recherche-entreprises). 
+Bienvenue sur le répertoire GitHub de l’[Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/) et de l’[API de Recherche d’entreprises](https://api.gouv.fr/les-api/api-recherche-entreprises). Ces deux services sont opérés par l’administration française 🇫🇷 au sein de la [Direction Interministérielle du Numérique(DINUM)](https://www.numerique.gouv.fr/).
 
-Ce sont des services de l’administration française 🇫🇷 au sein de la [Direction Interministérielle du Numérique(DINUM)](https://www.numerique.gouv.fr/).
-
-Retrouvez le catalogue de tous les repositories de l'administration française sur [code.gouv.fr](https://code.gouv.fr/public/#/groups).
+Vous pouvez retrouvez le catalogue de tous les répertoires de l'administration française sur [code.gouv.fr](https://code.gouv.fr/public/#/groups).
 
 En particulier :
 - https://github.com/numerique-gouv/numerique.gouv.fr
