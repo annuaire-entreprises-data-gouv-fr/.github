@@ -17,9 +17,9 @@ En particulier :
 - https://github.com/datagouv
 - Et [bien plus encore ...](https://code.gouv.fr/public/#/groups)
 
-*🇬🇧 Welcome to the GitHub account of [Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/) and [API Recherche d’entreprises](https://api.gouv.fr/les-api/api-recherche-entreprises), web services of the Direction Interministérielle du Numérique (DINUM) of the French State.*
+*🇬🇧 Welcome to the GitHub repository for [Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/) and [API Recherche d’entreprises](https://api.gouv.fr/les-api/api-recherche-entreprises), web services provided by Direction Interministérielle du Numérique (DINUM) of the French State.*
 
-*You can find a listing of all French government repositories on [code.gouv.fr](https://code.gouv.fr/public/#/groups).*
+*You can explore a comprehensive list of all French government repositories on [code.gouv.fr](https://code.gouv.fr/public/#/groups).*
 
 ---
 
